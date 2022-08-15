@@ -1,7 +1,5 @@
-<h1>Nessa programa aprendi sobre:</h1>
-
 https://daltonbellini.github.io/Shopping-list/ 
-
+<h1>Nessa programa aprendi sobre:</h1>
 1.Estrutura de dados<br>
 2.Organização e gerenciamento dos dados<br
 3.Melhor eficiência do código<br>
