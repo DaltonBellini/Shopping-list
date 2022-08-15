@@ -1,14 +1,13 @@
 <h1>Nessa progrma aprendi sobre:<h1>
-<hr>
 
-Estrutura de dados
-Organização e gerenciamento dos dados
-Melhor eficiência do código
-[] Estruturas de repetição
+Estrutura de dados<br>
+Organização e gerenciamento dos dados<br
+Melhor eficiência do código<br
+[] Estruturas de repetição<br
 
-laço de repetição
-for
-[] Vetores (Arrays)
-[] Tipo de dado estruturado
-[] incremental (++): o valor + 1
-[] Tipo de dado: undefined
+laço de repetição<br
+for<br
+[] Vetores (Arrays)<br
+[] Tipo de dado estruturado<br
+[] incremental (++): o valor + 1<br
+[] Tipo de dado: undefined<br
