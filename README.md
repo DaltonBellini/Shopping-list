@@ -1,6 +1,6 @@
 <h1>Nessa programa aprendi sobre:</h1>
 
-## https://daltonbellini.github.io/Shopping-list/ ##
+https://daltonbellini.github.io/Shopping-list/ 
 
 1.Estrutura de dados<br>
 2.Organização e gerenciamento dos dados<br
