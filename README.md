@@ -1,4 +1,4 @@
-<h1>Nessa progrma aprendi sobre:</h1>
+<h1>Nessa programa aprendi sobre:</h1>
 
 Estrutura de dados<br>
 Organização e gerenciamento dos dados<br
