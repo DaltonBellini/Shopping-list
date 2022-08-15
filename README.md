@@ -10,3 +10,4 @@
 [] Tipo de dado estruturado<br>
 [] incremental (++): o valor + 1<br>
 [] Tipo de dado: undefined<br>
+    <a href="https://daltonbellini.github.io/Shopping-list/"></a>
